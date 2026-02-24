@@ -5,10 +5,10 @@
  * 
  * File Name: main.cpp
  * 
- * AUTHOR INFORMATION:
- * Name: [FRIEND'S NAME]
- * Index: [FRIEND'S INDEX]
- * GitHub Username: [FRIEND'S USERNAME]
+ * AUTHOR :
+ * Name: Alfred Atitsogbui:
+ * Index: [01244247D]
+ * GitHub Username: alfredatitsogbui93-ship-it
  * Programme: HND Electrical Engineering
  * Course: EEE 227 (PT) - Programming for Electrical Engineering
  * Level: 200
